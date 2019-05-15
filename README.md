@@ -120,7 +120,7 @@ cd deep-learning-v2-pytorch
 
 	- __Linux__ or __Mac__: 
 	```
-	conda create -n deep-learning python=3.6
+	conda create -n deep-learning python=3.6 ipykernel (for Linux)
 	source activate deep-learning
 	```
 	- __Windows__: 
